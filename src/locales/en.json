@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master flight fundamentals, cockpit controls, weapon targeting, and early combat missions in Drone Impact."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "FPV Drone & Systems",
+          "description": "Understand FPV drone flight mechanics, aerodynamic handling, and advanced electronic warfare systems."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Drone Strikes & Missile Attacks",
+          "description": "Learn effective drone strike techniques, missile launch timing, and anti-heavy armor attack strategies."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Drone Impact."
+          "title": "Redeem Active Codes",
+          "description": "Find the latest working promo codes to claim free credits, weapon blueprints, and exclusive drone skins."
         }
       ]
     },
@@ -62,237 +62,285 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Drone Attack Tactics",
+        "FPV Drone Systems",
+        "Camera & Controls",
+        "Active Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first sortie to mastering the basics of drone combat and flight.",
+          "href": "/guide/drone-impact-gameplay"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
           "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "href": "/codes/drone-impact-codes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Drone Systems & Mechanics",
+          "description": "Detailed breakdown of FPV systems, drone tech, sensor modules, and avionics.",
+          "href": "/mechanics/drone-impact-drone-systems"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Combat",
+          "title": "Drone Attack & Strike Tactics",
+          "description": "Precision missile strikes, armor penetration angles, and combat engagement rules.",
+          "href": "/combat/drone-impact-drone-attack"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Guide",
+          "title": "Camera & Flight Controls",
+          "description": "Optimize sensitivity, view zoom settings, and FPV perspective controls.",
+          "href": "/controls/drone-impact-controls"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Modes",
+          "title": "Offline & Simulation Modes",
+          "description": "Explore offline tactical warfare, mobile play, and simulation game modes.",
+          "href": "/modes/drone-impact-offline"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Drone Impact?",
       "paragraphs": [
-        "Drone Impact is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Drone Impact is an intense military drone simulation and tactical combat game delivering modern aerial warfare experiences. Take control of high-tech FPV drones, precision strike platforms, and advanced missile systems across immersive combat scenarios.",
+        "Whether piloting agile reconnaissance drones, executing coordinated strikes against heavy armor, or mastering complex camera and control dynamics, our wiki covers every system with comprehensive guides, weapon specs, and tactical walkthroughs."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Mobile & PC"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tactical Drone Simulator"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Combat Mode",
+          "value": "Offline & Online"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Drone Systems",
+          "value": "FPV & Strike"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Weapon Tech",
+          "value": "Guided Missiles"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Flight Views",
+          "value": "FPV / Chase Cam"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Drone Impact Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master modern drone combat with comprehensive flight tutorials, weapon guides, tactical mechanics, and active promo codes.",
       "modules": [
         {
           "order": 1,
-          "name": "Drone Impact Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Drone Impact Beginner Guide",
+          "description": "This module explains the basic gameplay loop, drone controls, mission objectives, and early progression tips for new players.",
+          "href": "/guide/drone-impact-gameplay",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Calibrate pitch, roll, yaw, and throttle in the controls menu before takeoff"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Switch between chase camera and FPV view to assess target distances"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Acquire target lock on hostile vehicles and release guided munitions"
+            },
+            {
+              "label": "4",
+              "detail": "Evade incoming counter-fire and complete secondary recon objectives"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Drone Impact Weapons Guide",
+          "description": "This module covers available weapons, upgrade paths, damage improvements, and equipment choices for combat efficiency.",
+          "href": "/combat/drone-impact-drone-missile",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Missile",
+              "detail": "High-explosive anti-tank guided missiles for armored targets"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Rocket",
+              "detail": "Unguided high-velocity rocket pods for area denial"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Payload",
+              "detail": "Precision drop charges for stationary defense batteries"
+            },
+            {
+              "label": "Armor",
+              "detail": "Reinforced electronic shielding against enemy jamming"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Drone Impact Upgrades Guide",
+          "description": "This section focuses on progression systems, upgrade priorities, and resource usage across combat stages.",
+          "href": "/mechanics/drone-impact-drone-technology",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Battery",
+              "detail": "High-capacity power cells extending operational flight time"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Engine",
+              "detail": "Brushless motors increasing acceleration and maximum airspeed"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Antenna",
+              "detail": "Long-range signal transceivers resisting electronic counter-measures"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Optics",
+              "detail": "Thermal imaging sensors and high-resolution zoom lenses"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Drone Impact Gameplay Guide",
+          "description": "This module provides an overview of gameplay mechanics, combat scenarios, drone simulation features, and mission strategies.",
+          "href": "/guide/drone-impact-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "FPV Mode",
+              "detail": "Immersive first-person piloting with authentic aerodynamic physics"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Tactics",
+              "detail": "Low-altitude terrain masking to avoid enemy radar detection"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Targeting",
+              "detail": "Thermal signature tracking against camouflaged ground forces"
+            },
+            {
+              "label": "Combat",
+              "detail": "High-g evasive maneuvers when breaking enemy tracking lock"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Drone Impact Download Guide",
+          "description": "This module provides official platform information, installation guidance, and available versions for mobile and PC.",
+          "href": "/modes/drone-impact-mobile",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Android",
+              "detail": "Official package installation and device compatibility guide"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "TapTap",
+              "detail": "Verified community downloads, update history, and version checks"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Storage",
+              "detail": "Recommended device storage and minimum RAM requirements"
+            },
+            {
+              "label": "Settings",
+              "detail": "Optimal graphics configurations for smooth 60 FPS performance"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Drone Impact Missions Guide",
+          "description": "This section organizes mission objectives, enemy types, and combat challenges across diverse battlefield scenarios.",
+          "href": "/combat/drone-impact-drone-warfare",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Recon",
+              "detail": "Scout hostile troop movements without triggering air defense alerts"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Armor",
+              "detail": "Neutralize heavily armored tank columns and command vehicles"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Defense",
+              "detail": "Defend allied extraction zones from relentless enemy assault waves"
+            },
+            {
+              "label": "Strike",
+              "detail": "High-risk surgical strikes deep behind hostile front lines"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Drone Impact Tips and Tricks",
+          "description": "This module collects practical gameplay tips, combat techniques, and resource management advice for pilots.",
+          "href": "/controls/drone-impact-controls",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Altitude",
+              "detail": "Maintain optimal operational altitude to balance coverage and survival"
+            },
+            {
+              "label": "Inertia",
+              "detail": "Compensate for drone drift when lining up precision missile strikes"
+            },
+            {
+              "label": "Battery",
+              "detail": "Monitor remaining battery reserve to avoid catastrophic crash landings"
+            },
+            {
+              "label": "Cam Angle",
+              "detail": "Tilt FPV camera angle up for high-speed forward attack runs"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Drone Impact Updates and News",
+          "description": "This module tracks game updates, release information, and developer announcements for new versions.",
+          "href": "/guide/drone-impact-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Latest balance adjustments, weapon tuning, and bug fixes"
+            },
+            {
+              "label": "Drones",
+              "detail": "Upcoming drone chassis and specialized payload additions"
+            },
+            {
+              "label": "Battlefields",
+              "detail": "New tactical combat zones, urban maps, and weather conditions"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Developer announcements regarding multiplayer and ranked modes"
             }
           ]
         }
@@ -304,23 +352,23 @@
       "items": [
         {
           "question": "What is Drone Impact?",
-          "answer": "Drone Impact is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Drone Impact is a modern military drone combat and flight simulation game featuring high-tech FPV drones, tactical missile strikes, and intense armored warfare scenarios across mobile and simulation platforms."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Can I play Drone Impact offline?",
+          "answer": "Yes, Drone Impact includes offline mission modes allowing pilots to practice flight maneuvers, master combat controls, and complete tactical campaigns without an internet connection."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do drone controls and cameras work in Drone Impact?",
+          "answer": "Drone Impact offers customizable flight controls with full pitch, roll, yaw, and throttle sensitivity adjustments, alongside first-person FPV and third-person tactical chase cameras."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Where can I find working Drone Impact codes?",
+          "answer": "All active Drone Impact codes, redemption guides, and reward updates are regularly tracked on our dedicated Drone Impact Codes page."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I destroy heavy armor targets in Drone Impact?",
+          "answer": "To defeat heavy armor in Drone Impact, utilize top-attack guided missiles, precision dive strikes against weaker roof armor, and avoid direct fire from enemy anti-air turrets."
         }
       ]
     },
