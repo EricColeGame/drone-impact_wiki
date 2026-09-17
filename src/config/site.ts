@@ -18,17 +18,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Drone Impact Wiki",
+  shortName: "Drone Impact",
+  logoText: "DI",
+  tagline: "Futuristic Drone Combat Experience & Guides",
+  description: "Drone Impact Wiki provides gameplay guides, drone information, mechanics explanations, updates, and useful resources for players exploring the futuristic drone combat experience.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://drone-impact.wiki",
+  gameUrl: "https://www.taptap.io/app/261462",
+  heroVideoId: "MfQfjOdXGRw", // Drone Simulator Game showcase video
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/droneimpact",
+    youtube: "https://www.youtube.com/@droneimpact",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
