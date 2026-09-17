@@ -6,7 +6,14 @@
     "description": "Drone Impact Wiki provides gameplay guides, drone information, mechanics explanations, updates, and useful resources for players exploring the futuristic drone combat experience.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "modes": "Modes",
+    "controls": "Controls",
+    "codes": "Codes"
+  },
   "home": {
     "meta": {
       "title": "Drone Impact Wiki - Drone Guide, Updates & Codes",
@@ -379,7 +386,6 @@
       "secondary": "Play Drone Impact"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -415,5 +421,29 @@
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Drone Impact Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive beginner guides, progression walkthroughs, and essential tips for Drone Impact."
+  },
+  "mechanics": {
+    "overviewTitle": "Drone Impact Gameplay Mechanics",
+    "overviewDescription": "In-depth breakdown of FPV drone flight models, propulsion systems, impact physics, and core technology."
+  },
+  "combat": {
+    "overviewTitle": "Drone Impact Combat & Tactics",
+    "overviewDescription": "Tactical combat strategies, drone strike techniques, heavy armor countermeasures, and aerial warfare guides."
+  },
+  "modes": {
+    "overviewTitle": "Drone Impact Game Modes",
+    "overviewDescription": "Complete guide to offline skirmishes, tactical war simulations, and mission objectives in Drone Impact."
+  },
+  "controls": {
+    "overviewTitle": "Drone Impact Controls & Keybinds",
+    "overviewDescription": "Master flight controls, camera sensitivity, zoom management, and HUD settings in Drone Impact."
+  },
+  "codes": {
+    "overviewTitle": "Drone Impact Codes & Rewards",
+    "overviewDescription": "Latest working promo codes, free rewards, bonus blueprints, and redemption instructions for Drone Impact."
   }
 }
