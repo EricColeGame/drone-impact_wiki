@@ -5,6 +5,7 @@ export interface SiteConfig {
   tagline: string;
   description: string;
   url: string;
+  supportEmail: string;
   gameUrl?: string;
   heroVideoId?: string;
   social?: {
@@ -24,6 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Futuristic Drone Combat Experience & Guides",
   description: "Drone Impact Wiki provides gameplay guides, drone information, mechanics explanations, updates, and useful resources for players exploring the futuristic drone combat experience.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://drone-impact.wiki",
+  supportEmail: "support@drone-impact.wiki",
   gameUrl: "https://www.taptap.io/app/261462",
   heroVideoId: "MfQfjOdXGRw", // Drone Simulator Game showcase video
   social: {
