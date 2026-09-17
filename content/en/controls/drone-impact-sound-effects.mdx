@@ -113,9 +113,9 @@ In game engines, collision velocity and object mass should modulate real-time pa
 | :--- | :--- | :--- | :--- |
 | **Impact Velocity ($m/s$)** | Pitch Shifter | +2 to -4 semitones (Logarithmic) | High-speed crashes sound deeper and heavier |
 | **Impact Velocity ($m/s$)** | Low-Pass Filter (Cutoff) | 4 kHz to 20 kHz (Linear) | Low-speed bumps sound muffled, high-speed hits sound crisp |
-| **RigidBody Mass ($kg$)** | Sub-Bass Send Level | $-\infty$ dB to +4 dB (Exponential) | Heavy commercial drones trigger deep bass rumbles |
+| **RigidBody Mass (kg)** | Sub-Bass Send Level | $-\infty$ dB to +4 dB (Exponential) | Heavy commercial drones trigger deep bass rumbles |
 | **Surface Hardness (0–1)** | Transient Layer Volume | $-\infty$ dB to 0 dB (Linear) | Hard walls trigger sharp transient snaps |
-| **Camera Distance ($m$)** | Early Reflections Reverb | 0% to 100% Wet (Inverse Square) | Far impacts diffuse naturally into room reverb |
+| **Camera Distance (m)** | Early Reflections Reverb | 0% to 100% Wet (Inverse Square) | Far impacts diffuse naturally into room reverb |
 
 Implementing dynamic **Drone Impact sound effects** through physics-driven middleware ensures that minor scrapes sound distinctly different from catastrophic terminal-velocity crashes.
 
@@ -125,7 +125,7 @@ Mobile and console hardware require strict audio memory management. Ensure that 
 
 * **Voice Limiting**: Cap simultaneous impact voices to 3–4 instances per sound category.
 * **Virtual Voice Behavior**: Drop low-volume debris layers to virtual voices when playing below audibility thresholds.
-* **Random Container Variations**: Use at least 4 to 6 distinct asset variations per surface type with subtle pitch ($\pm 50$ cents) and volume ($\pm 1.5$ dB) randomization to prevent repetitive ear fatigue.
+* **Random Container Variations**: Use at least 4 to 6 distinct asset variations per surface type with subtle pitch (pm 50 cents) and volume ($\pm 1.5$ dB) randomization to prevent repetitive ear fatigue.
 
 ---
 

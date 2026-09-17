@@ -12,7 +12,9 @@
     "combat": "Combate",
     "modes": "Modos",
     "controls": "Controles",
-    "codes": "Códigos"
+    "codes": "Códigos",
+    "toggleTheme": "Alternar tema",
+    "menu": "Menu"
   },
   "shared": {
     "wikiNavigation": "Navegação da Wiki",

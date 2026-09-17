@@ -113,9 +113,9 @@ In Game-Engines sollten Kollisionsgeschwindigkeit und Objektmasse Echtzeitparame
 | :--- | :--- | :--- | :--- |
 | **Einschlagsgeschwindigkeit ($m/s$)** | Pitch Shifter | +2 bis -4 Halbtöne (Logarithmisch) | High-Speed-Crashes klingen tiefer und schwerer |
 | **Einschlagsgeschwindigkeit ($m/s$)** | Tiefpassfilter (Cutoff) | 4 kHz bis 20 kHz (Linear) | Stöße bei geringem Tempo klingen dumpf, schnelle Treffer crisp |
-| **RigidBody-Masse ($kg$)** | Sub-Bass Send-Level | $-\infty$ dB bis +4 dB (Exponentiell) | Schwere Industriedrohnen lösen tiefes Bassgrollen aus |
+| **RigidBody-Masse (kg)** | Sub-Bass Send-Level | $-\infty$ dB bis +4 dB (Exponentiell) | Schwere Industriedrohnen lösen tiefes Bassgrollen aus |
 | **Oberflächenhärte (0–1)** | Transienten-Layer-Lautstärke | $-\infty$ dB bis 0 dB (Linear) | Harte Wände lösen scharfe Transienten-Snaps aus |
-| **Kamera-Distanz ($m$)** | Early Reflections Reverb | 0 % bis 100 % Wet (Inverses Quadrat) | Entfernte Einschläge verhallen natürlich im Raum-Reverb |
+| **Kamera-Distanz (m)** | Early Reflections Reverb | 0 % bis 100 % Wet (Inverses Quadrat) | Entfernte Einschläge verhallen natürlich im Raum-Reverb |
 
 Die Implementierung dynamischer **Drohnen-Einschlag-Soundeffekte** über physikbasierte Middleware stellt sicher, dass sich minimale Schrammen deutlich von katastrophalen Hochgeschwindigkeitsabstürzen unterscheiden.
 
@@ -125,7 +125,7 @@ Mobile- und Konsolen-Hardware erfordern ein striktes Audio-Speichermanagement. S
 
 * **Voice Limiting**: Begrenzen Sie gleichzeitige Einschlagsstimmen auf 3–4 Instanzen pro Soundkategorie.
 * **Virtual Voice Verhalten**: Verschieben Sie leise Trümmerschichten in virtuelle Stimmen, wenn sie unterhalb der Hörbarkeitsschwelle abgespielt werden.
-* **Random-Container-Variationen**: Verwenden Sie mindestens 4 bis 6 verschiedene Asset-Variationen pro Oberflächentyp mit subtiler Tonhöhen- ($\pm 50$ Cents) und Lautstärke-Randomisierung ($\pm 1,5$ dB), um repetitive Hörermüdung zu vermeiden.
+* **Random-Container-Variationen**: Verwenden Sie mindestens 4 bis 6 verschiedene Asset-Variationen pro Oberflächentyp mit subtiler Tonhöhen- (pm 50 Cents) und Lautstärke-Randomisierung ($\pm 1,5$ dB), um repetitive Hörermüdung zu vermeiden.
 
 ---
 

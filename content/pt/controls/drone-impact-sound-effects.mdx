@@ -113,9 +113,9 @@ Nas game engines, a velocidade da colisão e a massa do objeto devem modular par
 | :--- | :--- | :--- | :--- |
 | **Velocidade do Impacto ($m/s$)** | Pitch Shifter | +2 a -4 semitons (Logarítmica) | Batidas em alta velocidade soam mais graves e pesadas |
 | **Velocidade do Impacto ($m/s$)** | Filtro Passa-Baixas (Cutoff) | 4 kHz a 20 kHz (Linear) | Batidas lentas soam abafadas, colisões rápidas soam nítidas |
-| **Massa do RigidBody ($kg$)** | Nível de Envio de Sub-Grave | $-\infty$ dB a +4 dB (Exponencial) | Drones comerciais pesados ativam vibrações profundas de grave |
+| **Massa do RigidBody (kg)** | Nível de Envio de Sub-Grave | $-\infty$ dB a +4 dB (Exponencial) | Drones comerciais pesados ativam vibrações profundas de grave |
 | **Dureza da Superfície (0–1)** | Volume da Camada Transiente | $-\infty$ dB a 0 dB (Linear) | Paredes duras disparam estalos transientes nítidos |
-| **Distância da Câmera ($m$)** | Reverb de Primeiras Reflexões | 0% a 100% Wet (Inverso do Quadrado) | Impactos distantes se difundem naturalmente no reverb do ambiente |
+| **Distância da Câmera (m)** | Reverb de Primeiras Reflexões | 0% a 100% Wet (Inverso do Quadrado) | Impactos distantes se difundem naturalmente no reverb do ambiente |
 
 Implementar **efeitos sonoros de impacto de drone** dinâmicos por meio de middleware baseado em física garante que arranhões leves soem distintamente diferentes de colisões catastróficas em velocidade terminal.
 
@@ -125,7 +125,7 @@ O hardware de dispositivos móveis e consoles exige um gerenciamento rigoroso de
 
 * **Limite de Vozes**: Limite as vozes de impacto simultâneas a 3–4 instâncias por categoria de som.
 * **Comportamento de Voz Virtual**: Converta camadas de detritos de baixo volume em vozes virtuais quando forem reproduzidas abaixo dos limites de audibilidade.
-* **Variações em Contêineres Aleatórios**: Use pelo menos 4 a 6 variações distintas de assets por tipo de superfície com randomização sutil de pitch ($\pm 50$ cents) e volume ($\pm 1.5$ dB) para evitar a fadiga auditiva repetitiva.
+* **Variações em Contêineres Aleatórios**: Use pelo menos 4 a 6 variações distintas de assets por tipo de superfície com randomização sutil de pitch (pm 50 cents) e volume ($\pm 1.5$ dB) para evitar a fadiga auditiva repetitiva.
 
 ---
 

@@ -113,9 +113,9 @@ En los motores de juego, la velocidad de colisión y la masa del objeto deben mo
 | :--- | :--- | :--- | :--- |
 | **Velocidad de impacto ($m/s$)** | Pitch Shifter | +2 a -4 semitonos (Logarítmica) | Los choques a alta velocidad suenan más graves y pesados |
 | **Velocidad de impacto ($m/s$)** | Filtro paso bajo (Corte) | 4 kHz a 20 kHz (Lineal) | Los roces lentos suenan apagados; los choques rápidos, nítidos |
-| **Masa RigidBody ($kg$)** | Nivel de envío de subgraves | $-\infty$ dB a +4 dB (Exponencial) | Los drones pesados activan retumbos de subgraves profundos |
+| **Masa RigidBody (kg)** | Nivel de envío de subgraves | $-\infty$ dB a +4 dB (Exponencial) | Los drones pesados activan retumbos de subgraves profundos |
 | **Dureza de superficie (0–1)** | Volumen de capa transitoria | $-\infty$ dB a 0 dB (Lineal) | Las paredes duras activan chasquidos transitorios cortantes |
-| **Distancia de cámara ($m$)** | Reverb de reflexiones tempranas | 0% a 100% Wet (Inversa al cuadrado) | Los impactos lejanos se difuminan de forma natural en la reverb |
+| **Distancia de cámara (m)** | Reverb de reflexiones tempranas | 0% a 100% Wet (Inversa al cuadrado) | Los impactos lejanos se difuminan de forma natural en la reverb |
 
 Implementar **efectos de sonido de impacto de drones** dinámicos mediante middleware basado en físicas garantiza que los rasguños menores suenen claramente distintos de los choques catastróficos a velocidad terminal.
 
@@ -125,7 +125,7 @@ El hardware móvil y de consolas exige una estricta gestión de la memoria de au
 
 * **Limitación de voces**: Restringe las voces de impacto simultáneas a 3 o 4 instancias por categoría de sonido.
 * **Comportamiento de voces virtuales**: Envía las capas de restos de bajo volumen a voces virtuales cuando se reproduzcan por debajo de los umbrales de audibilidad.
-* **Variaciones en contenedores aleatorios**: Utiliza al menos de 4 a 6 variaciones distintas por tipo de superficie, con una sutil aleatorización de tono ($\pm 50$ cents) y volumen ($\pm 1.5$ dB) para evitar la fatiga auditiva por repetición.
+* **Variaciones en contenedores aleatorios**: Utiliza al menos de 4 a 6 variaciones distintas por tipo de superficie, con una sutil aleatorización de tono (pm 50 cents) y volumen ($\pm 1.5$ dB) para evitar la fatiga auditiva por repetición.
 
 ---
 

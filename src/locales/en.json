@@ -12,7 +12,9 @@
     "combat": "Combat",
     "modes": "Modes",
     "controls": "Controls",
-    "codes": "Codes"
+    "codes": "Codes",
+    "toggleTheme": "Toggle theme",
+    "menu": "Menu"
   },
   "home": {
     "meta": {
