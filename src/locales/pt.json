@@ -1,1 +1,449 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Drone Impact",
+    "shortName": "Drone Impact",
+    "tagline": "Experiência de Combate com Drones Futuristas e Guias",
+    "description": "A Wiki de Drone Impact oferece guias de jogabilidade, informações sobre drones, explicações de mecânicas, atualizações e recursos úteis para jogadores explorando a experiência de combate com drones futuristas.",
+    "legalNotice": "Wiki não oficial criada por fãs. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "guide": "Guia",
+    "mechanics": "Mecânicas",
+    "combat": "Combate",
+    "modes": "Modos",
+    "controls": "Controles",
+    "codes": "Códigos"
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídias Oficiais",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Drone Impact",
+    "about": "A Wiki de Drone Impact é uma central independente de guias feita por fãs, cobrindo mecânicas de voo, combate de drones, melhorias e conhecimentos essenciais de jogo para pilotos novatos e veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de Drone Impact. Todas as marcas registradas pertencem aos seus respectivos proprietários.",
+    "description": "Jogo de combate futurista com drones. Controles de voo, personalização de drones e batalhas em arenas aéreas.",
+    "playGame": "Jogar Drone Impact",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Construtor de Drones (Planejador)",
+    "beginnerGuide": "Guia para Iniciantes",
+    "raceGuides": "Guias de Corrida",
+    "bossGuides": "Guias de Chefes",
+    "buildGuide": "Guia de Builds",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  },
+  "guide": {
+    "overviewTitle": "Guias e Tutoriais de Drone Impact",
+    "overviewDescription": "Guias abrangentes para iniciantes, passos de progressão e dicas essenciais para Drone Impact."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Jogo de Drone Impact",
+    "overviewDescription": "Análise aprofundada dos modelos de voo de drones FPV, sistemas de propulsão, física de impacto e tecnologias principais."
+  },
+  "combat": {
+    "overviewTitle": "Combate e Táticas de Drone Impact",
+    "overviewDescription": "Estratégias táticas de combate, técnicas de ataque com drones, contramedidas contra blindagem pesada e guias de guerra aérea."
+  },
+  "modes": {
+    "overviewTitle": "Modos de Jogo de Drone Impact",
+    "overviewDescription": "Guia completo de escaramuças offline, simulações táticas de guerra e objetivos de missão em Drone Impact."
+  },
+  "controls": {
+    "overviewTitle": "Controles e Teclas de Drone Impact",
+    "overviewDescription": "Domine os controles de voo, sensibilidade da câmera, gerenciamento de zoom e configurações de HUD em Drone Impact."
+  },
+  "codes": {
+    "overviewTitle": "Códigos e Recompensas de Drone Impact",
+    "overviewDescription": "Últimos códigos promocionais válidos, recompensas gratuitas, projetos bônus e instruções de resgate para Drone Impact."
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Drone Impact - Guia de Drones, Atualizações e Códigos",
+      "description": "Explore a Wiki de Drone Impact com guias de drones, dicas de gameplay, atualizações, estratégias e informações essenciais para ajudar os jogadores a dominar o combate futurista de drones."
+    },
+    "hero": {
+      "eyebrow": "Experiência Futurista de Combate com Drones",
+      "title": "Wiki de Drone Impact",
+      "description": "A Wiki de Drone Impact oferece guias de gameplay, informações sobre drones, explicações de mecânicas, atualizações e recursos úteis para jogadores explorarem o combate futurista de drones.",
+      "stats": [
+        "Total de Visitas: N/D",
+        "Unidades Disponíveis: N/D",
+        "Códigos Ativos: Ver Códigos",
+        "Atualizações Diárias: Disponíveis"
+      ],
+      "primaryCta": "Guia para Iniciantes",
+      "secondaryCta": "Tier List de Drones",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Navegar por Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Drone Impact",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Domine os fundamentos de voo, controles de cabine, mira de armas e as primeiras missões de combate em Drone Impact."
+        },
+        {
+          "number": "2",
+          "title": "Drones FPV e Sistemas",
+          "description": "Entenda as mecânicas de voo de drones FPV, controle aerodinâmico e sistemas avançados de guerra eletrônica."
+        },
+        {
+          "number": "3",
+          "title": "Ataques de Drones e Mísseis",
+          "description": "Aprenda técnicas eficazes de ataque com drones, temporização de lançamento de mísseis e estratégias contra blindagem pesada."
+        },
+        {
+          "number": "4",
+          "title": "Resgatar Códigos Ativos",
+          "description": "Encontre os códigos promocionais válidos mais recentes para resgatar créditos grátis, projetos de armas e skins exclusivas de drones."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta no Momento",
+      "quickLinks": [
+        "Táticas de Ataque com Drones",
+        "Sistemas de Drones FPV",
+        "Câmera e Controles",
+        "Códigos Ativos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Tudo o que você precisa, desde sua primeira surtida até dominar as noções básicas de combate e voo com drones.",
+          "href": "/guide/drone-impact-gameplay"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Todos os códigos válidos com recompensas para resgatar antes que expirem.",
+          "href": "/codes/drone-impact-codes"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Sistemas e Mecânicas de Drones",
+          "description": "Análise detalhada de sistemas FPV, tecnologia de drones, módulos de sensores e aviônicos.",
+          "href": "/mechanics/drone-impact-drone-systems"
+        },
+        {
+          "badge": "Combate",
+          "title": "Táticas de Ataque e Ofensiva com Drones",
+          "description": "Ataques precisos com mísseis, ângulos de penetração de blindagem e regras de engajamento em combate.",
+          "href": "/combat/drone-impact-drone-attack"
+        },
+        {
+          "badge": "Guia",
+          "title": "Câmera e Controles de Voo",
+          "description": "Otimize sensibilidade, configurações de zoom de visão e controles de perspectiva FPV.",
+          "href": "/controls/drone-impact-controls"
+        },
+        {
+          "badge": "Modos",
+          "title": "Modos Offline e Simulação",
+          "description": "Explore a guerra tática offline, jogabilidade móvel e modos de simulação de jogo.",
+          "href": "/modes/drone-impact-offline"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Drone Impact?",
+      "description": "De suas primeiras manobras aéreas a estratégias avançadas de combate, nossa wiki comunitária oferece guias gratuitos e atualizados para todos os pilotos.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar Drone Impact"
+    },
+    "aboutGame": {
+      "title": "O que é Drone Impact?",
+      "paragraphs": [
+        "Drone Impact é um intenso jogo de simulação e combate tático com drones militares que proporciona experiências modernas de guerra aérea. Assuma o controle de drones FPV de alta tecnologia, plataformas de ataque de precisão e sistemas avançados de mísseis em cenários de combate imersivos.",
+        "Seja pilotando drones ágeis de reconhecimento, executando ataques coordenados contra blindados pesados ou dominando a dinâmica complexa de câmeras e controles, nossa wiki cobre todos os sistemas com guias completos, especificações de armas e detonados táticos."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Mobile e PC"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulador Tático de Drone"
+        },
+        {
+          "label": "Modo de Combate",
+          "value": "Offline e Online"
+        },
+        {
+          "label": "Sistemas de Drone",
+          "value": "FPV e Ataque"
+        },
+        {
+          "label": "Tecnologia Bélica",
+          "value": "Mísseis Guiados"
+        },
+        {
+          "label": "Visões de Voo",
+          "value": "FPV / Câmera Traseira"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explorar a Wiki de Drone Impact",
+      "description": "Domine o combate moderno de drones com tutoriais de voo abrangentes, guias de armas, mecânicas táticas e códigos promocionais ativos.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia de Iniciantes de Drone Impact",
+          "description": "Este módulo explica o ciclo básico de jogabilidade, os controles de drones, os objetivos de missão e dicas iniciais de progressão para novos jogadores.",
+          "href": "/guide/drone-impact-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Calibre pitch, roll, yaw e throttle no menu de controles antes da decolagem"
+            },
+            {
+              "label": "2",
+              "detail": "Alterne entre a câmera de perseguição e a visão FPV para avaliar distâncias de alvos"
+            },
+            {
+              "label": "3",
+              "detail": "Obtenha a mira travada em veículos inimigos e dispare munições guiadas"
+            },
+            {
+              "label": "4",
+              "detail": "Esquive-se do fogo de resposta e conclua objetivos secundários de reconhecimento"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia de Armas de Drone Impact",
+          "description": "Este módulo cobre as armas disponíveis, árvores de melhoria, aprimoramentos de dano e escolhas de equipamentos para máxima eficiência em combate.",
+          "href": "/combat/drone-impact-drone-missile",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Míssil",
+              "detail": "Mísseis guiados antitanque de alto poder explosivo para alvos blindados"
+            },
+            {
+              "label": "Foguete",
+              "detail": "Lança-foguetes não guiados de alta velocidade para negação de área"
+            },
+            {
+              "label": "Carga Útil",
+              "detail": "Cargas de lançamento de precisão contra baterias defensivas estacionárias"
+            },
+            {
+              "label": "Blindagem",
+              "detail": "Blindagem eletrônica reforçada contra interferências e bloqueios inimigos"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de Melhorias de Drone Impact",
+          "description": "Esta seção é focada em sistemas de progressão, prioridades de melhoria e gerenciamento de recursos ao longo das fases de combate.",
+          "href": "/mechanics/drone-impact-drone-technology",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bateria",
+              "detail": "Células de energia de alta capacidade que estendem o tempo operacional de voo"
+            },
+            {
+              "label": "Motor",
+              "detail": "Motores brushless que aumentam a aceleração e a velocidade máxima de voo"
+            },
+            {
+              "label": "Antena",
+              "detail": "Transceptores de sinal de longo alcance resistentes a contramedidas eletrônicas"
+            },
+            {
+              "label": "Óptica",
+              "detail": "Sensores de imagem térmica e lentes de zoom de alta resolução"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de Jogabilidade de Drone Impact",
+          "description": "Este módulo traz uma visão geral das mecânicas de jogo, cenários de combate, recursos de simulação de drones e estratégias de missão.",
+          "href": "/guide/drone-impact-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Modo FPV",
+              "detail": "Pilotagem imersiva em primeira pessoa com física aerodinâmica autêntica"
+            },
+            {
+              "label": "Táticas",
+              "detail": "Mascaramento de terreno em baixa altitude para evitar radares inimigos"
+            },
+            {
+              "label": "Mira",
+              "detail": "Rastreamento de assinatura térmica contra forças terrestres camufladas"
+            },
+            {
+              "label": "Combate",
+              "detail": "Manobras evasivas de alta força G para quebrar a mira do inimigo"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de Download de Drone Impact",
+          "description": "Este módulo reúne informações oficiais sobre plataformas, instruções de instalação e versões disponíveis para mobile e PC.",
+          "href": "/modes/drone-impact-mobile",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Android",
+              "detail": "Instalação oficial do pacote e guia de compatibilidade de aparelhos"
+            },
+            {
+              "label": "TapTap",
+              "detail": "Downloads verificados pela comunidade, histórico de updates e versões"
+            },
+            {
+              "label": "Armazenamento",
+              "detail": "Espaço recomendado no dispositivo e requisitos mínimos de RAM"
+            },
+            {
+              "label": "Configurações",
+              "detail": "Configurações gráficas ideais para um desempenho estável a 60 FPS"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de Missões de Drone Impact",
+          "description": "Esta seção organiza objetivos de missão, tipos de inimigos e desafios de combate nos mais variados cenários de guerra.",
+          "href": "/combat/drone-impact-drone-warfare",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reconhecimento",
+              "detail": "Monitore a movimentação de tropas hostis sem disparar alertas antiaéreos"
+            },
+            {
+              "label": "Blindados",
+              "detail": "Neutralize colunas de tanques pesados e veículos de comando"
+            },
+            {
+              "label": "Defesa",
+              "detail": "Defenda zonas de extração aliadas contra ondas incessantes de ataques inimigos"
+            },
+            {
+              "label": "Ataque",
+              "detail": "Ataques cirúrgicos de alto risco atrás das linhas de frente inimigas"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dicas e Truques de Drone Impact",
+          "description": "Este módulo reúne dicas práticas de jogabilidade, técnicas de combate e orientações de gerenciamento de recursos para pilotos.",
+          "href": "/controls/drone-impact-controls",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Altitude",
+              "detail": "Mantenha a altitude operacional ideal equilibrando cobertura e sobrevivência"
+            },
+            {
+              "label": "Inércia",
+              "detail": "Compense a deriva do drone ao alinhar ataques de mísseis de precisão"
+            },
+            {
+              "label": "Bateria",
+              "detail": "Monitore a carga restante para evitar quedas catastróficas por falta de energia"
+            },
+            {
+              "label": "Ângulo da Câmera",
+              "detail": "Incline o ângulo da câmera FPV para cima em investidas de alta velocidade"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Atualizações e Notícias de Drone Impact",
+          "description": "Este módulo acompanha atualizações do jogo, notas de lançamento e anúncios dos desenvolvedores sobre novas versões.",
+          "href": "/guide/drone-impact-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Ajustes recentes de equilíbrio, balanceamento de armas e correção de bugs"
+            },
+            {
+              "label": "Drones",
+              "detail": "Novos chassis de drones e adições de cargas úteis especializadas a caminho"
+            },
+            {
+              "label": "Campos de Batalha",
+              "detail": "Novas zonas de combate tático, mapas urbanos e variações climáticas"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Anúncios dos desenvolvedores sobre modos ranqueados e multijogador"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre Drone Impact.",
+      "items": [
+        {
+          "question": "O que é Drone Impact?",
+          "answer": "Drone Impact é um moderno jogo de combate e simulação de voo militar com drones que traz drones FPV de alta tecnologia, ataques táticos com mísseis e intensos cenários de guerra blindada para plataformas mobile e simuladores."
+        },
+        {
+          "question": "Posso jogar Drone Impact offline?",
+          "answer": "Sim, Drone Impact conta com modos de missão offline que permitem aos pilotos treinar manobras de voo, dominar controles de combate e concluir campanhas táticas sem precisar de conexão com a internet."
+        },
+        {
+          "question": "Como funcionam os controles de drone e as câmeras em Drone Impact?",
+          "answer": "Drone Impact oferece controles de voo personalizáveis com ajustes completos de sensibilidade de pitch, roll, yaw e throttle, além de visão em primeira pessoa (FPV) e câmera de perseguição tática em terceira pessoa."
+        },
+        {
+          "question": "Onde posso encontrar códigos válidos de Drone Impact?",
+          "answer": "Todos os códigos ativos de Drone Impact, guias de resgate e novidades sobre recompensas são atualizados regularmente em nossa página dedicada de Códigos de Drone Impact."
+        },
+        {
+          "question": "Como destruo alvos blindados pesados em Drone Impact?",
+          "answer": "Para abater blindados pesados em Drone Impact, utilize mísseis guiados com trajetória de ataque por cima (top-attack), faça mergulhos de precisão mirando a blindagem superior mais frágil e evite a linha de tiro direta de torres antiaéreas inimigas."
+        }
+      ]
+    }
+  }
+}
